@@ -28,6 +28,12 @@ Le **Moteur T_rex** est un système de propulsion spatiale magnéto-inertielle p
 2. **Le Shunt Magnétique Amont :** La pastille de carburant solide d'hydrure de lithium ($LiH$) est positionnée fixe à l'entrée de la chambre. Lors de l'approche du projectile, la pastille de $LiH$ est interceptée et mécaniquement atomisée en un nuage de micro-particules en suspension par une barrière magnétique externe.
 3. **La Pénétration du Piston de Glace :** Le cœur de glace ($H_2O$), étant un isolant diélectrique neutre au départ, traverse la barrière de champ sans subir de décélération magnétique.
 4. **L'Impact Hydrodynamique et l'Ionisation de Choc :** Le piston de glace percute le nuage de $LiH$ pré-pulvérisé au centre géométrique de la chambre de confinement. L'énergie cinétique brute du projectile ($E_k = \frac{1}{2}m_p V_p^2$) est intégralement convertie en énergie thermique par une onde de choc plane. La température locale transite de $300\text{ K}$ à une température électronique de choc comprise entre **$30\ 000\text{ K}$ et $50\ 000\text{ K}$**. À ce niveau d'énergie, le potentiel d'ionisation du Lithium ($5.4\text{ eV}$) et de l'Hydrogène ($13.6\text{ eV}$) est instantanément franchi. Le mélange se transforme en un plasma de Coulomb hautement conducteur.
+5. ### 2.2 Variante : Piston Navette Réutilisable à Noyau REBCO Protégé
+
+Pour éliminer la perte matérielle de la gaine supraconductrice à chaque pulse, l'architecture peut intégrer un **Piston Navette Réutilisable**.
+* **Structure :** Un obus creux en acier haute résistance ou matrice Titane/Carbone renferme le cœur REBCO HTS en milieu cryogénique scellé.
+* **Cinématique :** Le piston subit une accélération dans un tube sous vide de type Hyperloop. Seule la face avant est rechargée en glace vive ($H_2O$) par extrusion flash au point mort arrière.
+* **Récupération d'Énergie :** Après l'impact et la phase de compression du $LiH$, le piston n'est pas volatilisé. Le flux magnétique du noyau REBCO interagit avec les bobines de la chambre qui opèrent une inversion de champ instantanée. Le piston est freiné magnétiquement, inversé, et renvoyé vers son cycle de rechargement à une fréquence de 10 Hz.
 
 ---
 
