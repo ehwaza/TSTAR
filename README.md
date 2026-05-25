@@ -1,4 +1,3 @@
-# Moteur T_rex : Propulsion Magnéto-Inertielle Pulsée (MIF) via Supraconducteurs REBCO
 # T_rex Engine: Pulsed Magneto-Inertial Propulsion (MIF) via REBCO Superconductors
 
 ---
